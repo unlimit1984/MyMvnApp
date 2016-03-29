@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	My MVN App
+	My MVN App, Hi
 </body>
 </html>
